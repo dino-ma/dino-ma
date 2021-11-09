@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😇 I'm an ordinary engineer.
+- 🤠 I'm currently writing golang.
+- 🤓 I've written PHP and python before.
+- 🙈 I look forward to making some contributions to open source, not limited to PHP, golang and python.
+- 🤑 If you or your project needs me, please contact me. 
+- 🧐 We are committed to improving engineering efficiency, engineering quality and high performance.
+
+
+
+
+
+### Contact me
+
+- <https://github.com/dino-ma>
+- <https://mashengjie.com>
+- <dino_ma@163.com>
+- Wechat:9393103
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dino-ma&count_private=true&show_icons=true&theme=dark&layout=compact&show_icons=true)
