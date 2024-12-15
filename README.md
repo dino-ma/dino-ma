@@ -25,12 +25,4 @@ Here are some ideas to get you started:
 
 
 
-### Contact me
-
-- <https://github.com/dino-ma>
-- <https://mashengjie.com>
-- <dino_ma@163.com>
-- Wechat:9393103
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dino-ma&count_private=true&show_icons=true&theme=dark&layout=compact&show_icons=true)
